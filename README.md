@@ -1,4 +1,4 @@
-# NodeAuth-MiniBlog
+# AuthFlow-MiniProject
 
 A full-stack social blogging and user authentication web application built with **Node.js**, **Express.js**, and **MongoDB**. This project features secure password hashing, JWT-based cookie authentication, dynamic profile picture uploads using **Multer**, and an interactive post dashboard where users can create, like, and edit posts.
 
